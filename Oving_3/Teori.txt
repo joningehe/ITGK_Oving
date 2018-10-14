@@ -1,0 +1,25 @@
+A)
+1. Fetch instructions
+2. Decode instructions
+3. Fetch data
+4. Execute instructions
+5. Return results to storage
+
+B)
+Steg nummer 3, fetch, flytter verdiene fra minnet til ALU som gjennomfører mattematiske eller logiske funksjoner.
+
+C)
+Programtelleren holder oversikt over hvor langt i en prosess programmet har kommet.
+
+D)
+Anno 2018 blir det rundt 1,8GHz (macbook air 5th gen)
+
+E)
+Solid State Drive
+
+F)
+SSD har ingen mekanisk arm slik som en harddisk, men har mikrobrikker slik som RAM.
+
+G)
+Aritmetisk logisk enhet gjennomfører mattematiske og logiske funksjoner når den blir intruert til å gjøre det
+på et sett med verdier.

@@ -1,0 +1,21 @@
+A)
+2**8 * 4 = 1024
+
+B)
+Monokrom farge har 1 bit med info per piksel. 1920*1080 piksler = 2073600 bits, som er 259200 bytes.
+
+C)
+Digital-to-analog converter
+
+D)
+10010
+12
+
+E)
+1010000 1001111 1010000
+
+F)
+En piksel er et fysisk punkt på en skjerm/bilde som består av rgb fargekombinasjon for å vise riktig del av et bilde.
+
+G)
+Digital lyd er informasjon i bytes. Analog lyd er fysiske lydbølge.

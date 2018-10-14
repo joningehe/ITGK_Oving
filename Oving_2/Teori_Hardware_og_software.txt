@@ -1,0 +1,28 @@
+a) Hva er forskjellen på primær- og sekundærlagring?
+
+Primærlagring slik som RAM og Harddisk er de stedene hvor operativsystemet lagres og finnes. Sekundærlagring
+slik som CD er ikke direkte tilgjengelig for CPU og regnes som eksterne lagringsmedier.
+
+
+b) Harddisk, SSD og RAM: Nevn de ulike egenskapene med tanke på permanent/volatilt og tilfeldig/sekvensiell aksess.
+
+Harddisker har fysiske deler som beveger seg for å skrive og lese til partisjonene, dette gjøres av en mekanisk arm.
+SSD og RAM lagrer informasjonen i mikrobrikker, dette gjør lesing og skriving mye raskere da det ikke er mekaniske
+deler som beveger seg på samme måte. RAM er derimot mer volatilt enn SSD noe som gjør at informasjon er hurtigere tilgjengelig
+men blir ikke lagret til bruk etter at strøm slutter å bevege seg gjennom brikkene.
+
+
+c) Hvorfor brukes silisium mye i elektronikk?
+Silisium er en halvleder som dermed har den egenskapen at det både kan fungere som en leder og isolator under ulike forhold.
+Denne egenskapen kan modifiseres for å gjøre den en ypperlig halvleder til bruk i elektriske kretser. Silisium er også
+lett tilgjengelig og dermed billig.
+
+
+d) Hva er en transistor?
+En halvleder som brukes til å forsterke eller endre elektiske signaler/elektrisitet.
+
+
+e) Det overføres 32 000 bytes mellom to datamaskiner. Hva må netthastigheten (målt i bits) være for å fullføre denne
+overføringen i løpet av 40 sekunder?
+
+6,4 kbps
