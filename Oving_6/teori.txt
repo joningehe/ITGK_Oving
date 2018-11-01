@@ -1,0 +1,42 @@
+a)
+HTTP, SMTP og FTP befinner seg i application layer, som er
+laget hvor brukerprodukter befinner seg.
+
+b)
+Parity checking betyr at man enten legger på 1 eller 0
+avhengig av om det er partall eller oddetall kontroll.
+Man legger dermed på en bit på en streng av bits for
+å oppdage om noe går feil under sendingen. Om
+parity bit ikke stemmer med kontrollen, vil dataen
+bli registrert som korrupt.
+
+c)
+Linjesvitsjing betyr at man har en gitt linje som kobler
+to punkter sammen. Data som skal overføres mellom linjen
+krever at linjen forblir oppe under overføringen for å hindre
+korrupt data. Pakkesvitsjing innebærer at man har flere
+tilkoblingspunkter hvor informasjon kan sendes gjennom for å nå
+sin endelige destinasjon. Når all data er nådd blir det
+gjort en sjekk for å bekrefte dette og i tilfellet
+for deler av data mangler kan denne sendes på nytt.
+Om en node går ned vil data kunne overføres via andre noder,
+ved linjesvitsjing vil overføringen stoppe om den ene
+linjen går ned.
+
+d)
+Oppgaven til rutere i et nettverk er å fungere som et til-
+koblingspunkt for enheter i nettverket og en ISP (modem).
+Rutere har også en rekke sikkerhetsprotokoller for å kontrollere
+overføring av data inn og ut.
+
+e)
+En protokoll i nettverksammensheng er gitte instrukser på
+hvordan enheter skal kommunisere med hverandre for å sørge
+for at det er samspill mellom hvordan informasjon skal behandles.
+
+f)
+Fysisk hardware
+Dataoverføring
+Nettverk
+Transport
+Applikasjon 

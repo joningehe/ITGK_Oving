@@ -1,0 +1,28 @@
+a)
+Et intranett er et internt nettverk som kun ikke tllater eksterne tilkoblinger
+med mindre det er fra en godkjent sender/mottaker. Nettverket brukes dermed
+kun til internt bruk.
+
+b)
+En ruter sender pakker mellom verter. Alle enheter tilkoblet et nettverk er en
+vert, men det er ruterne som står for trafikken mellom vertene.
+
+c)
+En IP adresse, et unikt fingeravtrykk som sier hvilken enhetet som sender og
+skal motta pakker. I dette tilfellet en IpV4 adresse.
+
+d)
+Se forrige spørsmål.
+
+e)
+IpV4 er en eldre versjon enn IpV6. Denne type protokoll er langt mindre effektiv
+og har en lavere mengde tilgjengelige adresser.
+
+f)
+Vi trenger IpV6 fordi denne type protokoll tillater langt flere adressnavn
+som dermed tillater flere unike adresser. Denne teknologien er også mer
+effektiv og lettere å tilpasse.
+
+g)
+Internet service provider, del av backbone i internet og er ansvarlig for å koble
+enheter til det globale nettverket.
