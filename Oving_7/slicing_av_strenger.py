@@ -1,6 +1,6 @@
     #Oppgave A
 def fourth_string_returner(sentence):
-    print(array_1[3::4])
+    print(sentence[::4])
 
 fourth_string_returner(sentence = input('Skriv inn en setning: '))
 

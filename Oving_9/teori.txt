@@ -1,0 +1,20 @@
+a)
+TCP behandler tapte pakker ved å gi beskjed til enheten(e) om å sende pakken(e) på nytt.
+Pakker kan bli tapt med vilje av overføringsprotokollen om nettverket er opptatt.
+
+b)
+Ping, traceroute og hastighet.
+Hastighet går på kapasitet til nettverket mens ping og traceroute går på hvordan protokollene
+overfører pakker.
+
+c)
+Et angrep som går ut på å overføre for mange pakker til et nettverk slik det ikke lenger har kapasitet til å fungere.
+
+d)
+Virtual private network og er en applikasjon for å koble et privat nettverk til et felles nettverk og
+ta i bruk dette nettverkets IP adresse(r) som om man skulle vært tilkoblet det.
+
+e)
+RSA-kryptering består av en algoritme som lager en privat og offentlig nøkkel i kommunikasjon
+mellom to eller flere enheter. Kun den lokale verten har den private nøkkelen, mens resten
+kan få tilgang til den offentlige. Man trenger derimot begge nøklene for å kunne dekryptere informasjonen.
