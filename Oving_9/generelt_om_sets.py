@@ -16,10 +16,7 @@ set4 = set2.intersection(set1)
 set4 = set1&set2
 
 def allUnique(lst):
-    if len(lst) == len(set(lst)):
-        return True
-    else:
-        return False
+    return len(lst) == len(set(lst)):
 
 def removeDuplicates(lst):
     lst = set(lst)
